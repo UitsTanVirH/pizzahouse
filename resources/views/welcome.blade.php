@@ -19,7 +19,7 @@
     <div class="content">
         <img src="/img/pizza-house.png" alt="pizza house logo">
         <div class="title m-b-md">
-            The North's Best Pizzas
+            The Best Pizzas in area
         </div>
         <p class="mssg">{{ session('msg') }}</p>
         <a href="{{ route('pizzas.create')}}">Order a Pizza</a>
